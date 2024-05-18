@@ -1,8 +1,8 @@
-# Projeto de Link Page
 
-## PROJETO PÁGINA DE LINK'S
 
-**Requisitos obrigatórios:**
+# 🔗Projeto de Link Page🔗
+
+**📃Requisitos obrigatórios:📃**
 
 - ANIMAÇÃO NOS BOTÕES(a animação é de sua escolha)
 - OS BOTÕES TEM QUE ESTAR LINKADO AS REDE SOCIAIS
@@ -10,12 +10,12 @@
 - NÃO USAR UMA COR APENAS NO PROJETO
 
 
-**Requisitos opcionais:**
+**📃Requisitos opcionais:📃**
 
 - DEIXAR RESPONSIVO(mobile e pc)
 - FAZER BOTÃO(MUDAR DE NOTURNO PRA MODO CLARO) IR DE UMA LADO PARA O OUTRO, NÃO PRECISA HAVER NENHUMA FUNÇÃO ATRIBUÍDA.
 
-__OBS:__
+__⚠️OBS:⚠️__
 
 _"O Projeto de Design é um projeto base, ou seja, não precisam fazer exatamente igual, seja autêntico e use as cores/fontes/imagens que você quiser."_
 
